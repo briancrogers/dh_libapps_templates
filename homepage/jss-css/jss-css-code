@@ -1,0 +1,40 @@
+<style>
+.widget--alma--courses-course-reading-lists .alma--course-header h2 {
+  display: none;
+}
+
+.widget--alma--courses-course-reading-lists .alma--course .alma--readinglists .alma--readinglist .alma--readinglist-header {
+  padding: 1em;
+}
+
+.widget--alma--courses-course-reading-lists .alma--course .alma--readinglists .alma--readinglist .alma--readinglist-header h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.widget--alma--courses-course-reading-lists .alma--course .alma--readinglists .alma--readinglist .alma--citations .alma--citation {
+  padding: 0.5em;
+</style>
+<style>
+body {
+font-size: 14px;
+</style>
+<style>
+.s-lg-az-result-description 
+font-size: 14px;
+</style>
+<style>
+.s-lib-box-title {
+font-size: 14px;
+</style>
+<style>
+.s-lg-database-desc{
+font-size: 14px;
+</style>
+
+<style>
+.s-lg-link-desc{
+font-size: 14px;
+</style>
